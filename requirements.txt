@@ -1,0 +1,7 @@
+control
+cvxpy>=1.4.0
+matplotlib
+numpy
+pandas
+PyYAML
+scipy

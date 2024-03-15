@@ -1,0 +1,21 @@
+Niter: !!int 30
+slack_regs: [0.1, 1.0, 10.0, 100, 1000]
+N_bar: !!int  1000
+
+ddpc_params:
+  T: !!int 30
+  Q: 1.0
+  R: 0.1
+  S: 1.0
+  ref: [0.75,]
+  y_bound: null
+  rho: !!int 20
+  solver: "MOSEK"
+
+benchmark_system: !!str "ddpc_system"
+benchmark_params:
+  u_bound: [-1, 1]
+  noise_y_std: 0.1
+  exc_u_std: 0.6
+
+random_seed: !!int 1111
