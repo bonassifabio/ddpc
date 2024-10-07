@@ -15,7 +15,7 @@ If you use this code, or otherwise found our work valuable, please cite the foll
 ```
 
 ### Requirements
-This code was developed on a Mac running Python 3.11, NumPy 12.6, cvxpy 1.4. 
+This code was developed on a Mac running Python 3.11, NumPy 1.26, cvxpy 1.4. 
 Other requirements are listed in [requirements.txt](./requirements.txt).
 
 Installation:
