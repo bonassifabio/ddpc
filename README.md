@@ -1,15 +1,16 @@
 ## About
 This repository implements the Data-Driven Predictive Control (DDPC) algorithms described in the paper
-> Per Mattsson, Fabio Bonassi, Valentina Breschi, Thomas B. Schön, “_On the equivalence of direct and indirect data-driven predictive control approaches_,” 2024, arXiv preprint: 2403.05860 [[link]](https://arxiv.org/abs/2403.05860)
+> Per Mattsson, Fabio Bonassi, Valentina Breschi, Thomas B. Schön, “_On the equivalence of direct and indirect data-driven predictive control approaches_,” 2024, IEEE Control Systems Letters [[link](https://ieeexplore.ieee.org/abstract/document/10535441)] [[arxiv](https://arxiv.org/abs/2403.05860)]
 
 If you use this code, or otherwise found our work valuable, please cite the following paper
 
 ```
 @article{mattsson2024equivalence,
-      title={On the equivalence of direct and indirect data-driven predictive control approaches}, 
-      author={Per Mattsson and Fabio Bonassi and Valentina Breschi and Thomas B. Schön},  
-      journal={arXiv preprint arXiv:2403.05860},
-      year={2024},
+  title={On the equivalence of direct and indirect data-driven predictive control approaches},
+  author={Mattsson, Per and Bonassi, Fabio and Breschi, Valentina and Sch{\"o}n, Thomas B},
+  journal={IEEE Control Systems Letters},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
